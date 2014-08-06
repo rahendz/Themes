@@ -1,0 +1,21 @@
+{
+    "name": "rahendz/themes",
+    "description": "rahendz themes manager",
+    "authors": [
+        {
+            "name": "rahendz",
+            "email": "rahendz@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Rahendz\\Themes": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
